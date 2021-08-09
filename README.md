@@ -4,7 +4,7 @@
 本项目的目的在于共享区块链相关地址服务的传送门 会经常更新
 
 
-币安   https://accounts.binancezh.io/zh-CN/register?ref=XWED3D2F
+币安   https://accounts.binancezh.cz/zh-CN/register?ref=XWED3D2F
 
 火币   https://www.huobi.bo/zh-cn/topic/invited/?invite_code=9wus4
 
