@@ -6,8 +6,10 @@
 
 币安   https://accounts.binancezh.cz/zh-CN/register?ref=XWED3D2F
 
-火币   https://www.huobi.bo/zh-cn/topic/invited/?invite_code=9wus4
+火币   https://www.huobi.do/zh-cn/topic/invited/?invite_code=9wus4&t=1630837496838
 
-欧易   https://www.ouyi.art/join/1989963
+欧易   ouyi.run/join/1989963
+
+gate.io https://www.gate.tv/signup/6341747
 
 抹茶   https://www.mxcio.co/auth/signup?inviteCode=19aqG
