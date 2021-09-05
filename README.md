@@ -8,7 +8,7 @@
 
 火币   https://www.huobi.do/zh-cn/topic/invited/?invite_code=9wus4&t=1630837496838
 
-欧易   ouyi.run/join/1989963
+欧易   https://ouyi.run/join/1989963
 
 gate.io https://www.gate.tv/signup/6341747
 
